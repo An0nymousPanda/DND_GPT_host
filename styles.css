@@ -1,0 +1,86 @@
+
+/* Base Styles */
+body {
+    font-family: 'Georgia', serif;
+    color: #fff;
+    background-color: #4B0082; /* Deep purple background */
+    margin: 0;
+    padding: 0;
+}
+
+/* Navigation Bar Styles */
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000; /* Black background for nav bar */
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #111;
+}
+
+/* Header Styles */
+header {
+    text-align: center;
+    padding: 30px 0;
+    background-color: #4B0082; /* Purple background for header */
+}
+
+header h1 {
+    margin: 0;
+    color: #fff;
+    font-size: 2.5em;
+}
+
+header p {
+    margin: 0;
+    color: #ccc; /* Light grey color for text */
+}
+
+/* Main Content Styles */
+main {
+    padding: 20px;
+}
+
+main section {
+    margin-bottom: 20px;
+}
+
+main section h2 {
+    color: #fff;
+    font-size: 1.8em;
+}
+
+main section p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #000; /* Black background for footer */
+    color: white;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    nav ul li {
+        float: none;
+    }
+}
