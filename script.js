@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             title: 'TTRPG 5e Plot Weaver',
             description: 'Assists in crafting DnD and other TTRPG campaigns, focusing on plot web creation for D&D 5e.',
-            url: '#https://chat.openai.com/g/g-EksxkXZWW-ttrpg-5e-plot-weaver'
+            url: 'https://chat.openai.com/g/g-EksxkXZWW-ttrpg-5e-plot-weaver'
         },
         {
             title: 'Adventure Ideas',
