@@ -3,9 +3,9 @@ document.addEventListener('DOMContentLoaded', function() {
     // Sample data for GPT Links (this can be replaced with real data or API calls)
     const gptLinks = [
         {
-            title: 'Character Generator',
-            description: 'Generate unique characters for your D&D campaign.',
-            url: '#'
+            title: 'TTRPG 5e Plot Weaver',
+            description: 'Assists in crafting DnD and other TTRPG campaigns, focusing on plot web creation for D&D 5e.',
+            url: '#https://chat.openai.com/g/g-EksxkXZWW-ttrpg-5e-plot-weaver'
         },
         {
             title: 'Adventure Ideas',
